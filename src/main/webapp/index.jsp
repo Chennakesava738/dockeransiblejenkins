@@ -22,6 +22,7 @@
     </ul>
   </div>
 </nav>
+  <img src="https://pixabay.com/images/search/nature/">
 <div class="container">
   <h2>Horizontal form</h2>
   <form class="form-horizontal" action="/action_page.php">
@@ -51,7 +52,6 @@
     </div>
   </form>
 </div>
-  <img src="https://pixabay.com/images/search/nature/">
 
 </body>
 </html>

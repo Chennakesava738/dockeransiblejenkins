@@ -50,8 +50,8 @@
       </div>
     </div>
   </form>
-  <img src="https://pixabay.com/images/search/nature/">
 </div>
+  <img src="https://pixabay.com/images/search/nature/">
 
 </body>
 </html>

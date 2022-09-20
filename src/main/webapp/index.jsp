@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2 stype="colour: red">malli mama srinu anna/h2>
+<h2 style="colour:red"> Malli mama And srinu gadu </h2>
 </body>
 </html>

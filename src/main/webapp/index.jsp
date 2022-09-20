@@ -51,6 +51,9 @@
     </div>
   </form>
 </div>
+<div class="container">
+  <img src="https://pixabay.com/images/search/nature/">
+</div>
 
 </body>
 </html>

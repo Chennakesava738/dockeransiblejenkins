@@ -52,6 +52,6 @@
     </div>
   </form>
 </div>
-
+<img src="cinqueterre.jpg" class="img-rounded" alt="Cinque Terre">
 </body>
 </html>
